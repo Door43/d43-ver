@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ver:home|Door43 (ver)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ver|d43-ver repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ver/archive/master.zip|d43-ver.zip]]
+
+**Recent Changes**
+{{changes>ns = ver}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ver|Ethnologue data]]
+
